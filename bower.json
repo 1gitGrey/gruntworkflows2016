@@ -1,0 +1,25 @@
+{
+  "name": "grunt-workflows",
+  "description": "Project for Lynda G.W. Course 2016",
+  "main": "index.js",
+  "authors": [
+    "grey.grissom@gmail.com"
+  ],
+  "license": "MIT",
+  "moduleType": [
+    "globals"
+  ],
+  "homepage": "pornicater.com",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "~3.3.6",
+    "mustache.js": "mustache#~2.2.1",
+    "jquery.smooth-scroll": "~1.6.1"
+  }
+}
